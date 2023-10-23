@@ -10,5 +10,5 @@ main:
 	ret
 
 section .data
-    hello db "Hello, Holberton",0
+    hello db 'Hello, Holberton', 10, 0
 
